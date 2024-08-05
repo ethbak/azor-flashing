@@ -50,6 +50,8 @@ _These improvements reflect savings of over 4,000 labor hours and $100,000 in re
 # 🖥️ Where is the Code?
 This application was developed for sole use by Marquardt U.S. and is therefore not available for open source or public use as per my employment agreement.
 
+This README file simply serves to provide a detailed depiction of my contribution to the project during my time as a Software Engineer at Marquardt.
+
 # 👨‍💻 Contributors
 
 ### [Ethan Baker](https://www.ebaker.us) - Software Development, Hardware Development
