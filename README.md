@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ethbak/azor-flashing/main/azor_flashing_logo.png" alt="azor_banner" width="450"/>
+<img src="https://raw.githubusercontent.com/ethbak/azor-flashing/main/images/azor_flashing_logo.png" alt="azor_banner" width="550"/>
 
 <hr style="border: none; height: 2px; background-color: purple; width: 100%;">
 
