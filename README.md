@@ -33,12 +33,11 @@ A responsive and functional GUI accompanies the Python automation, providing cle
 ![Static Badge](https://img.shields.io/badge/HexFile_Generator.exe-orange?style=for-the-badge)
 
 # 🔨 Hardware
-- Laptop
-- Fob Nest
-- Gateway Nest
-- Development Boards
-- Blue Box
-- Power Supply
+- Windows 10 Laptop
+- Fob and Gateway Nests
+- 2x Dialog DA14580 Development Boards
+- iSYSTEM iC5000 BlueBox
+- Triple Power Supply
 
 
 # 👥 Usage
