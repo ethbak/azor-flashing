@@ -88,7 +88,7 @@ A responsive and functional GUI accompanies the Python automation, providing cle
 
 _These improvements reflect savings of over 4,000 labor hours and $100,000 in related costs over the project's lifetime._ 
 
-# 🖥️ Where is the Code?
+# 🖥️ Where's the Code?
 This application was developed for sole use by Marquardt U.S. and is therefore not available for open source or public use as per my employment agreement.
 
 This README file simply serves to provide a detailed depiction of my contribution to the project during my time as a Software Engineer at Marquardt.
