@@ -40,6 +40,11 @@ A responsive and functional GUI accompanies the Python automation, providing cle
   </div>
 
 - Fob and Gateway Nests
+
+  <div align="left">
+  <img src="https://raw.githubusercontent.com/ethbak/azor-flashing/main/images/nests.png" alt="nests" width="200"/>
+  </div>
+
 - 2x Dialog DA14580 Development Boards
 
   <div align="left">
@@ -54,11 +59,11 @@ A responsive and functional GUI accompanies the Python automation, providing cle
   
 - Triple Power Supply
   <div align="left">
-  <img src="https://raw.githubusercontent.com/ethbak/azor-flashing/main/images/power%20supply.jpg" alt="powersupply" width="200"/>
+  <img src="https://raw.githubusercontent.com/ethbak/azor-flashing/main/images/power.png" alt="powersupply" width="200"/>
   </div>
 
 
-# 👥 Usage
+# 💡 Methodology
 
 
 # 🏎️ Performance
