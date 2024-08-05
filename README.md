@@ -1,6 +1,5 @@
-![azor_banner](https://raw.githubusercontent.com/ethbak/azor-flashing/main/azor_flashing_logo.png)
-
 <div align="center">
+![azor_banner](https://raw.githubusercontent.com/ethbak/azor-flashing/main/azor_flashing_logo.png)
 
 ![Static Badge](https://img.shields.io/badge/JD-AZOR-darkgreen)
 ![Static Badge](https://img.shields.io/badge/Flashing-Station-red)
