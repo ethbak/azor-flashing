@@ -20,6 +20,8 @@ Using Python multithreading and hardware optimization for quick JTAG connections
 
 A responsive and functional GUI accompanies the Python automation, providing clear status indicators and live instructions to allow for efficient use by untrained operators. This, alongside detailed process checks, ensures a favorable fallout rate of less than 1%.
 
+# ✨ Functionality
+
 # 🎥 Videos
 ### [Usage Demo](https://youtu.be/)
 
