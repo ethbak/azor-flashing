@@ -23,7 +23,7 @@ A responsive and functional GUI accompanies the Python automation, providing cle
 # ✨ Functionality
 
 # 🎥 Videos
-### [Usage Demo](https://youtu.be/)
+### [Usage Demo](https://youtu.be/2AJPzRWuK8c)
 
 # 📀 Technologies / Dependencies
 
