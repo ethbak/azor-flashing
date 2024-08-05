@@ -14,11 +14,14 @@
 
 # ⚡ AZOR Flashing
 
-Lorem ipsum dolor.
+AZOR Flashing is a Python-native solution to a faulty printed-circuit board flashing station on the AZOR assembly line at Marquardt U.S.. This station is responsible for more than $3,000,000 in product and provides the functionality to flash, download, and run application code, pair key fob and gateway boards with unique hex values, and crystal trim board headers to optimize bluetooth frequency strength. 
+
+Using Python multithreading and hardware optimization for quick JTAG connections, this rebuild reflects a significant improvement in efficiency over the previous station, cutting down production time by 89% while utilizing a less resource intensive setup. 
+
+A responsive and functional GUI accompanies the Python automation, providing clear status indicators and live instructions to allow for efficient use by untrained operators. This, alongside detailed process checks, ensures a favorable fallout rate of less than 1%.
 
 # 🎥 Videos
 ### [Usage Demo](https://youtu.be/)
-### [Hardware Overview](https://youtu.be/)
 
 # 📀 Technologies / Dependencies
 
@@ -30,6 +33,12 @@ Lorem ipsum dolor.
 ![Static Badge](https://img.shields.io/badge/HexFile_Generator.exe-orange?style=for-the-badge)
 
 # 🔨 Hardware
+- Laptop
+- Fob Nest
+- Gateway Nest
+- Development Boards
+- Blue Box
+- Power Supply
 
 
 # 👥 Usage
