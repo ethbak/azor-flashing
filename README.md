@@ -22,6 +22,16 @@ A responsive and functional GUI accompanies the Python automation, providing cle
 
 # ✨ Functionality
 
+### User Interface
+
+### Flashing
+
+### Crystal Trimming
+
+### Process Tests
+
+### Multithreading
+
 # 🎥 Videos
 ### <a href="https://youtu.be/2AJPzRWuK8c" target="_blank">Usage Demo</a>
 
@@ -64,9 +74,6 @@ A responsive and functional GUI accompanies the Python automation, providing cle
   <div align="left">
   <img src="https://raw.githubusercontent.com/ethbak/azor-flashing/main/images/power.png" alt="powersupply" width="200"/>
   </div>
-
-
-# 💡 Methodology
 
 
 # 🏎️ Performance
