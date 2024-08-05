@@ -33,11 +33,29 @@ A responsive and functional GUI accompanies the Python automation, providing cle
 ![Static Badge](https://img.shields.io/badge/HexFile_Generator.exe-orange?style=for-the-badge)
 
 # 🔨 Hardware
-- Windows 10 Laptop
+- Dell Latitude 5580 w/ Windows 10
+
+  <div align="left">
+  <img src="https://raw.githubusercontent.com/ethbak/azor-flashing/main/images/dell.png" alt="dell" width="200"/>
+  </div>
+
 - Fob and Gateway Nests
 - 2x Dialog DA14580 Development Boards
+
+  <div align="left">
+  <img src="https://raw.githubusercontent.com/ethbak/azor-flashing/main/images/devkit.jpg" alt="devkit" width="200"/>
+  </div>
+  
 - iSYSTEM iC5000 BlueBox
+
+  <div align="left">
+  <img src="https://raw.githubusercontent.com/ethbak/azor-flashing/main/images/BlueBox.png" alt="bluebox" width="200"/>
+  </div>
+  
 - Triple Power Supply
+  <div align="left">
+  <img src="https://raw.githubusercontent.com/ethbak/azor-flashing/main/images/power%20supply.jpg" alt="powersupply" width="200"/>
+  </div>
 
 
 # 👥 Usage
