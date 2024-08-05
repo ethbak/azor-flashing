@@ -1,4 +1,4 @@
-![azor_banner](https://github.com/ethbak/azor-flashing-mq/azor-flashing-logo.png)
+![azor_banner](https://raw.githubusercontent.com/ethbak/azor-flashing/main/azor_flashing_logo.png)
 
 <div align="center">
 
