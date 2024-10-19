@@ -14,7 +14,7 @@
 
 # ⚡ AZOR Flashing
 
-AZOR Flashing is a Python-native solution to a faulty printed-circuit board flashing station on the AZOR assembly line at Marquardt U.S.. This station is responsible for more than $3,000,000 in product and provides the functionality to flash, download, and run application code, pair key fob and gateway boards with unique hex values, and crystal trim board headers to optimize Bluetooth frequency strength. 
+AZOR Flashing is a Python-native solution to a faulty printed-circuit board flashing station on the AZOR assembly line at Marquardt U.S.. This station is responsible for more than $10,000,000 in product and provides the functionality to flash, download, and run application code, pair key fob and gateway boards with unique hex values, and crystal trim board headers to optimize Bluetooth frequency strength. 
 
 Using Python multithreading and hardware optimization for quick JTAG connections, this rebuild reflects a significant improvement in efficiency over the previous station, cutting down production time by 89% while utilizing a less resource-intensive setup. 
 
